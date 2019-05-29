@@ -1,6 +1,6 @@
 
 # Using Data Verbs to Teach the Management of Tabular Data (306370)
-*Chris John Malone, Winona State University; Todd Iverson, Winona State University*
+*Chris Malone, Winona State University; Todd Iverson, Winona State University*
 
 **Keywords:** Data Verbs; Grammar of Data; Curriculum
 
