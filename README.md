@@ -8,4 +8,8 @@ Wickham (2014) introduced fundamental data verbs for the manipulation of data. T
 
 ## Data Verbs in Action
 
+It's not possible to embed videos directly, but you can put an image which links to a youtube video:
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/i2JmOiAF31U/0.jpg)](https://www.youtube.com/watch?v=i2JmOiAF31U) 
+
 We prefer to introduce the data verbs using a paper activity.  [Take a look](https://youtu.be/i2JmOiAF31U)
